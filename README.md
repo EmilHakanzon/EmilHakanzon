@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I love football and golf
 ---
 ![](https://github-readme-stats.vercel.app/api?username=EmilJohanssonz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://visitcount.itsvg.in/api?id=EmilJohanssonz&icon=3&color=10)
+![](https://visitcount.itsvg.in/api?id=EmilJohanssonz&icon=3&color=1)
