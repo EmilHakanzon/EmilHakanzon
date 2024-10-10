@@ -5,4 +5,5 @@
 - 📫 How to reach me: You can reach me at my https://www.linkedin.com/in/emiijohansson/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love football and golf
-
+---
+![](https://github-readme-stats.vercel.app/api?username=EmilJohanssonz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
