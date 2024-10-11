@@ -1,28 +1,52 @@
-![github-header-image](https://github.com/user-attachments/assets/47ec7753-1435-4436-9d39-9ab11fdfb8bc)
+ ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/70c5b571-3a59-412b-bd06-62c4386da379)
+
+
+---
+
+<h3 align="center">Frontend developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emiljohanssonz&label=Profile%20views&color=1255f3&style=plastic" alt="emiljohanssonz" /> 
 
 ---
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 👋 Junior Frontend Developer passionate about building engaging and responsive user interfaces using HTML, CSS, and JavaScript. Always excited to learn new technologies and tackle challenges in the ever-evolving world of web development.
-
-- **Areas of Interest:**  
-  Frontend development, particularly in crafting seamless user experiences with **React**, **JavaScript**, **HTML**, and **CSS**.
-
-- **Current Learning Focus:**
-  JavaScript, HTML, CSS, and React.
-- ⚡ In my free time, I enjoy playing **golf** and following **football**. Both are great ways for me to unwind and stay active outside of coding.
-
-   ---
-
-  <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/https://www.linkedin.com/in/emiijohansson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emiijohansson/" height="30" width="40" /></a>
 ---
-<h3 aign=left>Languages and Tools:</h3> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
 
----
-![](https://github-readme-stats.vercel.app/api?username=EmilJohanssonz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://visitcount.itsvg.in/api?id=EmilJohanssonz&icon=3&color=1)
+</p>
+👋 Junior Frontend Developer passionate about building engaging and responsive user interfaces using HTML, CSS, and JavaScript. Always excited to learn new technologies and tackle challenges in the ever-evolving world of web development.
 
 ---
 
+- 🌱 Current Learning Focus: **JavaScript, HTML, CSS, and React.**
+
+- 📝 Areas of Interest: **Frontend development, particularly in crafting seamless user experiences with React, JavaScript, HTML, and CSS.**
+
+- 📫 How to reach me **emilaik@gmail.com**
+
+- ⚡ In my free time **I enjoy playing golf and following football. Both are great ways for me to unwind and stay active outside of coding.**
+
+  ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emiijohansson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emiijohansson/" height="30" width="40" /></a>
+<a href="https://fb.com/emil.johanssin,9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emil.johanssin,9279" height="30" width="40" /></a>
+<a href="https://instagram.com/emiljohanss0nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiljohanss0nz" height="30" width="40" /></a>
+<a href="https://discord.gg/remiiyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="remiiyy" height="30" width="40" /></a>
+</p>
+
 ---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiljohanssonz&show_icons=true&theme=dark&locale=en&layout=compact" alt="emiljohanssonz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emiljohanssonz&show_icons=true&theme=dark&locale=en" alt="emiljohanssonz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emiljohanssonz&theme=dark" alt="emiljohanssonz" /></p>
+
+---
+
