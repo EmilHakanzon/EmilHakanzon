@@ -17,7 +17,7 @@
 
 ---
 
-- 🌱 Current Learning Focus: **JavaScript, HTML, CSS, and React.**
+- 🌱 Current Learning Focus: **TypeScript,Scss/Tailwind and React.**
 
 - 📝 Areas of Interest: **Frontend development, particularly in crafting seamless user experiences with React, JavaScript, HTML, and CSS.**
 
