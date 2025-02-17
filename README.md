@@ -21,7 +21,7 @@
 
 - 📝 Areas of Interest: **Frontend development, particularly in crafting seamless user experiences with React, JavaScript, HTML, and CSS.**
 
-- 📫 How to reach me **emilaik@gmail.com**
+- 📫 How to reach me **Emil.hakanzon@gmail.com**
 
 - ⚡ In my free time **I enjoy playing golf and following football. Both are great ways for me to unwind and stay active outside of coding.**
 
