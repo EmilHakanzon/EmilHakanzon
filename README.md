@@ -13,11 +13,12 @@
 ---
 
 </p>
-👋 Junior Frontend Developer passionate about building engaging and responsive user interfaces using HTML, CSS, and JavaScript. Always excited to learn new technologies and tackle challenges in the ever-evolving world of web development.
+👋 Hi there, I'm Emil
+🚀 Junior Frontend Developer passionate about building sleek, responsive, and user-centered web applications. I enjoy crafting intuitive interfaces and scalable frontend solutions using modern tools and frameworks. I'm constantly exploring new technologies and love turning creative ideas into interactive experiences.
 
 ---
 
-- 🌱 Current Learning Focus: **TypeScript,Scss/Tailwind and React.**
+- 🌱 Current Learning Focus: **Next, React, Tailwind.**
 
 - 📝 Areas of Interest: **Frontend development, particularly in crafting seamless user experiences with React, JavaScript, HTML, and CSS.**
 
