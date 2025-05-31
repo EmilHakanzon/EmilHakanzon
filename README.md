@@ -42,17 +42,17 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiljohanssonz&show_icons=true&theme=dark&locale=en&layout=compact" alt="emiljohanssonz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilHakanzon&show_icons=true&theme=dark&locale=en&layout=compact" alt="EmilHakanzon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emiljohanssonz&show_icons=true&theme=dark&locale=en" alt="emiljohanssonz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmilHakanzon&show_icons=true&theme=dark&locale=en" alt="EmilHakanzon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emiljohanssonz&theme=dark" alt="emiljohanssonz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilHakanzon&theme=dark" alt="EmilHakanzon" /></p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilJohanssonz/EmilJohanssonz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilJohanssonz/EmilJohanssonz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EmilJohanssonz/EmilJohanssonz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilHakanzon/EmilHakanzon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilHakanzon/EmilHakanzon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EmilHakanzon/EmilHakanzon/output/github-snake.svg" />
 </picture>
 
