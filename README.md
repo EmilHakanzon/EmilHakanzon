@@ -18,7 +18,7 @@
 
 ---
 
-- 🌱 Current Learning Focus: **Next, React, Tailwind.**
+- 🌱 Current Learning Focus: **Next, React, Tailwind, React-Native, Expo.**
 
 - 📝 Areas of Interest: **Frontend development, particularly in crafting seamless user experiences with React, JavaScript, HTML, and CSS.**
 
