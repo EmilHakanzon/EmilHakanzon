@@ -65,10 +65,10 @@
       <br>
       <a href="https://github.com/EmilHakanzon/coffee-time" target="_blank">
         <img src="https://raw.githubusercontent.com/EmilHakanzon/EmilHakanzon/main/coffee-time-app-icon.png" alt="Coffee Time App" width="120" style="border-radius:24px; margin-top:24px;" /><br/>
-        <b>Coffee Time (Closed Test) ☕</b>
+        <b>Coffee Time ☕</b>
       </a>
       <br>
-      <sub>Track your coffee & water habits!<br>(Now in closed test - see the repo for updates!)</sub>
+      <sub>Track your coffee & water habits!<br></sub>
       <br>
       <!-- If you want to use the uploaded image directly instead, reference it like this: -->
       <!-- <img src="![image1](image1)" alt="Coffee Time App" width="120" style="border-radius:24px; margin-top:24px;" /><br/> -->
