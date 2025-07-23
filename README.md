@@ -20,7 +20,7 @@
     <b>Junior Frontend Developer</b> passionate about building sleek, responsive, and user-centered web applications.<br>
     <b>Current Focus:</b> Next.js, React, Tailwind, React Native, Expo.<br>
     <b>Interests:</b> Intuitive interfaces, scalable frontend, creative interactive experiences.<br>
-    <b>App on Google Play:</b> <a https://play.google.com/store/apps/details?id=com.emilhakanzon.coffeetime">☕ Coffee Time</a> <br>
+    <b>App on Google Play:</b> <a href="https://play.google.com/store/apps/details?id=com.emilhakanzon.coffeetime">☕ Coffee Time</a> <br>
     <b>Contact:</b> <a href="mailto:Emil.hakanzon@gmail.com">Emil.hakanzon@gmail.com</a><br>
     <b>Fun fact:</b> I enjoy playing golf ⛳ and following football ⚽ in my spare time!
   </blockquote>
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
   </p>
-
 
   <h3>🤝 Connect with Me</h3>
   <p>
@@ -70,8 +69,6 @@
       <br>
       <sub>Track your coffee & water habits!<br></sub>
       <br>
-      <!-- If you want to use the uploaded image directly instead, reference it like this: -->
-      <!-- <img src="![image1](image1)" alt="Coffee Time App" width="120" style="border-radius:24px; margin-top:24px;" /><br/> -->
     </td>
   </tr>
 </table>
