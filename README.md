@@ -20,7 +20,7 @@
     <b>Junior Frontend Developer</b> passionate about building sleek, responsive, and user-centered web applications.<br>
     <b>Current Focus:</b> Next.js, React, Tailwind, React Native, Expo.<br>
     <b>Interests:</b> Intuitive interfaces, scalable frontend, creative interactive experiences.<br>
-    <b>App on Google Play:</b> <a https://play.google.com/store/apps/details?id=com.emilhakanzon.coffeetime">☕ Coffee Time</a> (currently in closed test)<br>
+    <b>App on Google Play:</b> <a https://play.google.com/store/apps/details?id=com.emilhakanzon.coffeetime">☕ Coffee Time</a> <br>
     <b>Contact:</b> <a href="mailto:Emil.hakanzon@gmail.com">Emil.hakanzon@gmail.com</a><br>
     <b>Fun fact:</b> I enjoy playing golf ⛳ and following football ⚽ in my spare time!
   </blockquote>
