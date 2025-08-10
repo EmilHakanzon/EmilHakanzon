@@ -64,8 +64,11 @@
       <!-- Cool animated image -->
       <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="320" style="margin-bottom:30px;" />
       <br>
+      <br>
+      <a href="https://play.google.com/store/apps/details?id=com.emilhakanzon.coffeetime">
+      <b>Google Play</b></a>
       <a href="https://github.com/EmilHakanzon/coffee-time" target="_blank">
-        <img src="https://raw.githubusercontent.com/EmilHakanzon/EmilHakanzon/main/coffee-time-app-icon.png" alt="Coffee Time App" width="120" style="border-radius:24px; margin-top:24px;" /><br/>
+        <br/>
         <b>Coffee Time ☕</b>
       </a>
       <br>
